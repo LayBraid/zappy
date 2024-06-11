@@ -1,0 +1,11 @@
+bootstrap
+test_ftp.sh
+zappy_server
+server_example
+connect.sh
+
+.vscode
+.idea
+.fleet
+
+*.o

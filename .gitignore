@@ -1,0 +1,7 @@
+.vscode
+zappy_gui
+*.d
+*.o
+.idea
+zappy_server_ref
+*.a
